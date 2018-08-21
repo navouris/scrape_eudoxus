@@ -3,7 +3,7 @@ Python script for downloading an offline version of the eudoxus database of Prog
 (eudoxus.gr)
 To be used for research on the Greek higher education system. (e.g. textbooks, for a specific course accross institutions).
 
-<bold>Instructions<\bold>
+<b>Instructions<\b>
 
 It has been tested with python 3.x
 Download bs4 library (instructions at https://pypi.org/project/beautifulsoup4/)
