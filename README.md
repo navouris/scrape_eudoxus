@@ -6,8 +6,11 @@ To be used for research on the Greek higher education system. (e.g. textbooks, f
 <b>Instructions</b>
 
 It has been tested with python 3.x
+
 Download bs4 library (instructions at https://pypi.org/project/beautifulsoup4/)
+
 Run the script scrape_eudoxus.py
+
 The script asks for the academic year (use any number between 2012 and current year) and downloads entries in an sqlite3 database 
 for that academic year, using beautifulsoup4 for scraping the corresponding web pages.
 
