@@ -24,4 +24,6 @@ The schema of the database is as follows:
 'CREATE INDEX programs_index ON programs(id ASC);'
 
 One may use tools like DB Browser for SQLite (https://sqlitebrowser.org/) for querying the database, or build and run scripts 
-for a particular project. An example of such script is documented in Avouris (2018), in preparation for PCI 2018, Athens, November 2018.
+for a particular project. 
+
+An example of such script is documented in Avouris (2018), in preparation for PCI 2018, Athens, November 2018.
