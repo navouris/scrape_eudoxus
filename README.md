@@ -2,7 +2,8 @@
 Python script for downloading an offline version of the eudoxus database of Programs, courses, textbooks for a set academic year 
 (eudoxus.gr)
 To be used for research on the Greek higher education system. (e.g. textbooks, for a specific course accross institutions).
-Instructions
+
+<bold>Instructions<\bold>
 
 It has been tested with python 3.x
 Download bs4 library (instructions at https://pypi.org/project/beautifulsoup4/)
